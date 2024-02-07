@@ -1,0 +1,6 @@
+*.a
+*.o
+*.json
+my_sokoban
+*.log
+unit_tests
