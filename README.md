@@ -9,7 +9,8 @@ Fonctionnement :
 flèches directionnelles pour déplacer le joueur
 
 Carte :
-# : Mur
+
+\# : Mur
 P : Joueur
 X : Boites 
 O : Emplacement d'arrivé de boites
